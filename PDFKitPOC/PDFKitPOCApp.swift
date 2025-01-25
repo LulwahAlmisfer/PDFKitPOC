@@ -11,7 +11,7 @@ import SwiftUI
 struct PDFKitPOCApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PDFViewerView()
         }
     }
 }
